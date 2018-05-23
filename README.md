@@ -2,7 +2,7 @@
 
 ## Pre requisites
 
-* A running kubernetes cluster with context set in kubectl
+* A running GKE cluster with context set in kubectl
 
 
 ## Steps for implementation
